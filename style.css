@@ -16,7 +16,7 @@ section {
 
 .half-width {
     width: 50%;
-    padding: 11px;
+    padding: 5px;
 }
 
 .half-width img {
@@ -30,4 +30,9 @@ section {
     padding: 10px 40px;
     color: white;
     font-weight: 700;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+
 }
